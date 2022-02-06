@@ -17,4 +17,4 @@ Suba el respiratorio a las páginas de GitHub
 Asegúrese de que todo funcione
 
 
-Por ejemplo https://leandromendez2022.github.io/Pratica- 2-PAT.github.io/
+Por ejemplo https://leandromendez2022.github.io/Pratica-2-PAT.github.io/
